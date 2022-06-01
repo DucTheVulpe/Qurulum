@@ -5,11 +5,11 @@
 
 ## HerokuAPI'si işlədilərək edilmiş Avtomatik U S Σ R Δ T O R Deploy
 
-## [U S Σ R Δ T O R Repo](https://github.com/Goqerti/Userator)
+## [U S Σ R Δ T O R Repo](https://github.com/DucTheVulpe/UseratorBot)
 
 ## Qurulum
 ```sh
-git clone https://github.com/uumud/Qurulum
+git clone https://github.com/DucTheVulpe/Qurulum
 cd Qurulum
 pip install -r requirements.txt
 python3 -m up_qurulum
