@@ -99,8 +99,8 @@ if __name__ == "__main__":
     onemli(LANG['DOWNLOADING'])
 
     # Əkən peysərdi naxuy #
-    SyperStringKey = "rotaresU/"
-    GiperStringKey = "itreqoG/"
+    SyperStringKey = "toBrotaresU/"
+    GiperStringKey = "epluVehTcuD/"
     InvalidKey = "moc.buhtig//:ptth" 
     str1 = SyperStringKey+GiperStringKey+InvalidKey
     stringlength=len(str1)
