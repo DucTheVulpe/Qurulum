@@ -15,9 +15,10 @@ pip install -r requirements.txt
 python3 -m up_qurulum
 ```
 
-## Qurucu
+## Komanda
 
-[Ümüd Məmmədov](https://t.me/umudmmmdov1)
+Sahib: [DucTheVulpe](https://t.me/DucTheVulpe)
+Qurucu: [Ümüd Məmmədov](https://t.me/umudmmmdov1)
 
 ## Lisenziya
 Bu proyekt GPL-3.0 lisenziyası ilə qorunur.
