@@ -1,9 +1,9 @@
 [tool]
 [tool.poetry]
-name = "DTOUserBot_Deployer"
+name = "Userator_Deployer"
 version = "1.0"
-description = "Automatic Deploy DTOUserBot to Heroku"
-authors = ["Ümüd Məmmədov <@umudmmmdov1>"]
+description = "Automatic Deploy Userator to Heroku"
+authors = ["DucTheVulpe <@DucTheVulpe>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 bs4 = "*"
