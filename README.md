@@ -17,7 +17,7 @@ python3 -m up_qurulum
 
 ## Komanda
 
-Sahib: [DucTheVulpe](https://t.me/DucTheVulpe)
+Sahib: [DucTheVulpe](https://t.me/DucTheVulpe) /n
 Qurucu: [Ümüd Məmmədov](https://t.me/umudmmmdov1)
 
 ## Lisenziya
